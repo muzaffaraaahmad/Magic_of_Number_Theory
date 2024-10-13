@@ -1,1 +1,3 @@
 # Magic_of_Number_Theory
+
+Number theory is a branch of mathematics that explores the fascinating properties and patterns in numbers. Some magical concepts include prime numbers, the "building blocks" of all integers, and Fibonacci numbers, which appear in nature and art, closely linked to the golden ratio. Modular arithmetic reveals cyclic patterns, while perfect numbers and amicable numbers possess symmetry that has intrigued mathematicians for centuries. Patterns in square numbers and triangular numbers demonstrate hidden structures in simple sums, while Pythagorean triples form harmonious right triangles. These patterns create a sense of magic in the mathematical world, connecting abstract theory to real-world phenomena.
